@@ -1,0 +1,162 @@
+[
+    {
+        "id": 101,
+        "name": "Roasted Millet Sticks",
+        "price": [
+          50,
+          145,
+          255
+        ],
+        "category": [
+          "1x100g",
+          "3x100g",
+          "6x100g"
+        ],
+        "image": "https://munchfit.in/cdn/shop/files/STICKSPeriPeriMunchFitFinal-03_1100x.jpg?v=1689353919",
+        "description": "Flavour - Peri Peri. Experience the glow of PeriPeri chilly with tasty lemon flavor which is rich in vitamins and minerals. Ingredients: (Ragi, Jowar & Bajra - 41%), Corn Grits & Rice Grits (30%), Edible Vegetable Oil ( Palmolein Oil), Spices and Condiments -(12%) - ( Mixed Spices, Dehydrated Chilli Powder, Dehydrated Garlic Powder, Dehydrated Onion Powder, Black Pepper Powder, Sugar, Iodised Salt ), Oregano Acidity Regulator (Ins 330), Anti-caking Agent (Ins 170 (I)))."
+      },
+      {
+        "id": 102,
+        "name": "Roasted Millet Balls",
+        "price": [
+          50,
+          145,
+          255
+        ],
+        "category": [
+          "1x100g",
+          "3x100g",
+          "6x100g"
+        ],
+        "image": "https://munchfit.in/cdn/shop/files/BALLSMunchFitFinal-03_1100x.jpg?v=1689350012",
+        "description": "Flavour - Magic Masala. It is the secret ingredient that makes your everyday snacks extraordinarily tasty. Ingredients: (Ragi, Jowar & Bajra - 41%), Corn Grits & Rice Grits (30%), Edible Vegetable Oil ( Palm Olein Oil), Spices and Condiments -(10%), (Ajwain Powder, Black Pepper, Black Salt, Fenugreek Powder, Chilli Powder, Coriander Powder, Dry Mango Powder, Ginger Powder, Black Pepper Powder, Cumin Powder, Turmeric Powder, Clove Powder, Cinnamon Powder, Sugar, Iodised Salt), Acidity Regulator (Ins 330), Anticaking Agent (Ins 170 (I)))."
+      },
+      {
+        "id": 103,
+        "name": "Roasted Millet Curls",
+        "price": [
+          50,
+          145,
+          255
+        ],
+        "category": [
+          "1x100g",
+          "3x100g",
+          "6x100g"
+        ],
+        "image": "https://munchfit.in/cdn/shop/files/CurlsMunchFitFinal-03_1100x.jpg?v=1689396117",
+        "description": "Flavour - Lemon Chilly. A combination of sour and spicy flavors. Crunchy & tasty Curls are a perfect snack for your party evening. Ingredients: (Ragi, Jowar & Bajra - 41%), Corn Grits & Rice Grits (30%), Edible Vegetable Oil (Palmolein Oil) *spices and Condiments10% ( Red Chilli Powder, Coriander Powder, Turmeric Powder, Dehydrated Ginger Powder), Acidity Regulator (Ins 330), Natural Lemon Flavouring, Iodised Salt, Spice Extracts, Anti-caking Agent (Ins 170 (I)))."
+      },
+      {
+        "id": 104,
+        "name": "Roasted Millet Puffs",
+        "price": [
+          50,
+          145,
+          255
+        ],
+        "category": [
+          "1x100g",
+          "3x100g",
+          "6x100g"
+        ],
+        "image": "https://munchfit.in/cdn/shop/files/PuffsMunchFitChilligarlicFinal-03_1100x.jpg?v=1689348032",
+        "description": "Flavour - Chili Garlic. When it comes to snacking nothing can beat the goodness of Garlic with a mid-hit of Chili. Ingredients: (Ragi, Jowar & Bajra - 41%), Corn Grits & Rice Grits (30%), Edible Vegetable Oil (Palm Olein Oil), Spices & Condiments (10%), (Tomato Powder, Coriander Powder, Red Chillies Powder, Dry Mango Powder, Iodised Salt, Dried Ginger Powder, Black Salt, Dehydrated Garlic Powder, Black Pepper Powder, Cloves Powder, Nutmeg Powder, Star Anise, Asafoetida, Sugar), Acidity Regulator (Ins 330), Anti-caking Agent (Ins 170 (I)))."
+      },
+      {
+        "id": 105,
+        "name": "Roasted Millet Rings",
+        "price": [
+          50,
+          145,
+          255
+        ],
+        "category": [
+          "1x100g",
+          "3x100g",
+          "6x100g"
+        ],
+        "image": "https://munchfit.in/cdn/shop/files/RINGSMunchFitTangytomatoFinal-03_1100x.jpg?v=1689347563",
+        "description": "Flavour - Tangy Tomato. Tart sour cream taste and onion flavor are blended to create the perfect seasoning for Snacks. Ingredients: (Ragi, Jowar & Bajra - 41%), Corn Grits & Rice Grits (30%), Edible Vegetable Oil (Palm Olein Oil), Spices and Condiments - 10% (Black Pepper, Fenugreek Powder, Dehydrated Onion Powder, Vegetable Powder, Tomato Powder, Dehydrated Garlic Powder, Dehydrated Onion Powder, Chilli Powder, Cinnamon Powder, Iodised Salt, Sugar, Black Salt), Milk Solids, Acidity Regulator (Ins 330), Anticaking Agent (Ins 551, Ins 170 (I)))."
+      },
+      {
+        "id": 106,
+        "name": "Roasted Millet Waves",
+        "price": [
+          50,
+          145,
+          255
+        ],
+        "category": [
+          "1x100g",
+          "3x100g",
+          "6x100g"
+        ],
+        "image": "https://munchfit.in/cdn/shop/files/WAVESMunchFitFinal-03_1100x.jpg?v=1689346580",
+        "description": "Flavour -Pani Puri. Perfect mix of cold, spicy, tart, sweet and crunchy. A taste that your mouth and mind instinctively know. Ingredients: (Ragi, Jowar & Bajra - 41%), Corn Grits & Rice Grits (30%), Edible Vegetable Oil ( Palm Olein Oil), Spices And Condiments (10%), (Black Salt, Dry Mango, Cumin Powder, Tamarind Powder, Citric Acid, Mint Leaves, Dried Ginger, Yellow Chillies, Black Pepper, Turmeric Powder, Cloves Powder, Asafoetida, Iodised Salt, Sugar), Acidity Regulator (Ins 330), Anticaking Agent (Ins 170 (I)))."
+      },
+      {
+        "id": 107,
+        "name": "Roasted Millet BBQ Sticks",
+        "price": [
+          50,
+          145,
+          255
+        ],
+        "category": [
+          "1x100g",
+          "3x100g",
+          "6x100g"
+        ],
+        "image": "https://munchfit.in/cdn/shop/files/STICKSMunchFitBarbequeFinal-03_1100x.jpg?v=1689348687",
+        "description": "Flavour - Barbeque. A combined flavor of salty, sweet, tangy and spice. The crispy stick is perfectly delicious and gives happiness to every bite. Ingredients: (Ragi, Jowar & Bajra - 41%), Corn Grits & Rice Grits (30%), Edible Vegetable 0il (Palmolien Oil) *spices and Condiments 10% (Smoked Paprika, Dehydrated Onion Powder, Dehydrated Garlic Powder, Maltodextrin, Corn Starch, Iodised Salt, Sugar), Acidity Regulator (Ins 330), Anti-caking Agent (Ins 170 (I)))."
+      },
+      {
+        "id": 108,
+        "name": "Tahini Cookies",
+        "price": [
+          150,
+          287,
+          560
+        ],
+        "category": [
+          "1x100g",
+          "2x100g",
+          "4x100g"
+        ],
+        "image": "https://munchfit.in/cdn/shop/files/WhatsAppImage2023-10-11at3.29.09PM_1_2019481c-5728-4ea2-a142-0e20dff09a9b_1100x.jpg?v=1697998340",
+        "description": "Munch Fit Jowar Sesame Oats Tahini Cookies | Healthy & Tasty Snack Item For Tea or Coffee | Rich in Protein & Fiber | Gluten Free | No Maida, No Added Sugar | Made with Desi Khaand. HEALTHY & CRUNCHY TAHNIN COOKIES: These healthy cookies are made up of Jowar, Sesame, Oats, Almonds, Peanuts & Desi Khaand, hence relish these delightful Tahini Cookies - a flavorsome and nutritious treat."
+      },
+      {
+        "id": 109,
+        "name": "Multimillet Cookies",
+        "price": [
+          150,
+          287,
+          560
+        ],
+        "category": [
+          "1x100g",
+          "2x100g",
+          "4x100g"
+        ],
+        "image": "https://munchfit.in/cdn/shop/files/WhatsAppImage2023-10-05at2.06.00PM_1100x.jpg?v=1697997114",
+        "description": "Munch Fit Healthy, Tasty & Crunchy Multimillet Cookies | Jowar, Ragi & Bajra Cookies | 100% Natural & Healthy Cookies | Gluten Free | No Maida, No Added Sugar | Made with Desi Khaand. HEALTHY & CRUNCHY MULTIMILLET COOKIES: These healthy cookies are made up of Jowar, Ragi, Bajra, Almonds & Desi Khaand, hence relish these delightful Multimillet Cookies - a delectable blend of flavors and crunchy goodness."
+      },
+      {
+        "id": 110,
+        "name": "Choco-Chip Cookies",
+        "price": [
+          150,
+          287,
+          560
+        ],
+        "category": [
+          "1x100g",
+          "2x100g",
+          "4x100g"
+        ],
+        "image": "https://munchfit.in/cdn/shop/files/ChocoChipscookies-06_1100x.jpg?v=1697996336",
+        "description": "Millet Choco Chip Cookies | Healthy, Tasty & Crunchy Jowar Choco Chip Cookies for Kids & Adults | Gluten Free, Protein Rich | No Maida, No Added Sugar | Made with Desi Khaand. HEALTHY & CRUNCHY MILLET CHOCO CHIP COOKIES: These healthy cookies are made up of Jowar, Dark Cocoa Powder, Chocolate Chips & Desi Khaand hence contains no added sugar, no aritificial flavours, colours or preservatives. A perfect healthy snack for adults & kids."
+      }
+]
