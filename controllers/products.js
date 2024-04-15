@@ -3,11 +3,11 @@ const Product = require("../models/product");
 const getAllProducts = async (req, res) => {
     const {id, name, select} = req.query;
     const queryObject = {};
-    let apiData = Product.find(queryObject);
+    let apiData = Product.find(queryObject); 
 
     if (id) {
         queryObject.id = id;
-    }
+    }   
     if (name) {
         queryObject.name = name;
     }
