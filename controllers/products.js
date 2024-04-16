@@ -29,7 +29,7 @@ const getAllProducts = async (req, res) => {
         apiData = apiData.select(selectFix);
     }
 
-    const mahakal_main_line = await Product.find(queryObject).select("id name price category image description").sort("id");
+    const mahakal_main_line = await Product.find(queryObject).select("id name featured price category image description").sort("id");
     res.status(200).json({mahakal_main_line, nHbits: mahakal_main_line.length});
 };
 
