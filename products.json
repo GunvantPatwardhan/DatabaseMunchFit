@@ -2,7 +2,7 @@
     {
         "id": 101,
         "name": "Roasted Millet Sticks",
-        "featured": "no",
+        "featured": "isnot",
         "price": [
           50,
           145,
@@ -19,7 +19,7 @@
       {
         "id": 102,
         "name": "Roasted Millet Balls",
-        "featured": "no",
+        "featured": "isnot",
         "price": [
           50,
           145,
@@ -36,7 +36,7 @@
       {
         "id": 103,
         "name": "Roasted Millet Curls",
-        "featured": "yes",
+        "featured": "itis",
         "price": [
           50,
           145,
@@ -53,7 +53,7 @@
       {
         "id": 104,
         "name": "Roasted Millet Puffs",
-        "featured": "no",
+        "featured": "isnot",
         "price": [
           50,
           145,
@@ -70,7 +70,7 @@
       {
         "id": 105,
         "name": "Roasted Millet Rings",
-        "featured": "no",
+        "featured": "isnot",
         "price": [
           50,
           145,
@@ -87,7 +87,7 @@
       {
         "id": 106,
         "name": "Roasted Millet Waves",
-        "featured": "yes",
+        "featured": "itis",
         "price": [
           50,
           145,
@@ -104,7 +104,7 @@
       {
         "id": 107,
         "name": "Roasted Millet BBQ Sticks",
-        "featured": "no",
+        "featured": "isnot",
         "price": [
           50,
           145,
@@ -121,7 +121,7 @@
       {
         "id": 108,
         "name": "Tahini Cookies",
-        "featured": "no",
+        "featured": "isnot",
         "price": [
           150,
           287,
@@ -138,7 +138,7 @@
       {
         "id": 109,
         "name": "Multimillet Cookies",
-        "featured": "yes",
+        "featured": "itis",
         "price": [
           150,
           287,
@@ -155,7 +155,7 @@
       {
         "id": 110,
         "name": "Choco-Chip Cookies",
-        "featured": "no",
+        "featured": "isnot",
         "price": [
           150,
           287,
