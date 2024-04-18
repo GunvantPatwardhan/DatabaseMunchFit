@@ -12,7 +12,7 @@ const productSchema = new mongoose.Schema({
     unique: true,
   },
   featured: {
-    type: Number,
+    type: String,
     required: [true, "Please input Featured Value!"],
   },
   category: {
