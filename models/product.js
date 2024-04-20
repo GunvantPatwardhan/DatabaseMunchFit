@@ -12,7 +12,7 @@ const productSchema = new mongoose.Schema({
     unique: true,
   },
   featured: {
-    type: String,
+    type: Boolean,
   },
   category: {
     type: Array,

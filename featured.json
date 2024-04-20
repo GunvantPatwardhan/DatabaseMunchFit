@@ -1,0 +1,53 @@
+[
+    {
+        "id": 103,
+        "name": "Roasted Millet Curls",
+        "featured": true,
+        "price": [
+          50,
+          145,
+          255
+        ],
+        "category": [
+          "1x100g",
+          "3x100g",
+          "6x100g"
+        ],
+        "image": "https://munchfit.in/cdn/shop/files/CurlsMunchFitFinal-03_1100x.jpg?v=1689396117",
+        "description": "Flavour - Lemon Chilly. A combination of sour and spicy flavors. Crunchy & tasty Curls are a perfect snack for your party evening. Ingredients: (Ragi, Jowar & Bajra - 41%), Corn Grits & Rice Grits (30%), Edible Vegetable Oil (Palmolein Oil) *spices and Condiments10% ( Red Chilli Powder, Coriander Powder, Turmeric Powder, Dehydrated Ginger Powder), Acidity Regulator (Ins 330), Natural Lemon Flavouring, Iodised Salt, Spice Extracts, Anti-caking Agent (Ins 170 (I)))."
+      },
+      {
+        "id": 106,
+        "name": "Roasted Millet Waves",
+        "featured": true,
+        "price": [
+          50,
+          145,
+          255
+        ],
+        "category": [
+          "1x100g",
+          "3x100g",
+          "6x100g"
+        ],
+        "image": "https://munchfit.in/cdn/shop/files/WAVESMunchFitFinal-03_1100x.jpg?v=1689346580",
+        "description": "Flavour -Pani Puri. Perfect mix of cold, spicy, tart, sweet and crunchy. A taste that your mouth and mind instinctively know. Ingredients: (Ragi, Jowar & Bajra - 41%), Corn Grits & Rice Grits (30%), Edible Vegetable Oil ( Palm Olein Oil), Spices And Condiments (10%), (Black Salt, Dry Mango, Cumin Powder, Tamarind Powder, Citric Acid, Mint Leaves, Dried Ginger, Yellow Chillies, Black Pepper, Turmeric Powder, Cloves Powder, Asafoetida, Iodised Salt, Sugar), Acidity Regulator (Ins 330), Anticaking Agent (Ins 170 (I)))."
+      },
+      {
+        "id": 109,
+        "name": "Multimillet Cookies",
+        "featured": true,
+        "price": [
+          150,
+          287,
+          560
+        ],
+        "category": [
+          "1x100g",
+          "2x100g",
+          "4x100g"
+        ],
+        "image": "https://munchfit.in/cdn/shop/files/WhatsAppImage2023-10-05at2.06.00PM_1100x.jpg?v=1697997114",
+        "description": "Munch Fit Healthy, Tasty & Crunchy Multimillet Cookies | Jowar, Ragi & Bajra Cookies | 100% Natural & Healthy Cookies | Gluten Free | No Maida, No Added Sugar | Made with Desi Khaand. HEALTHY & CRUNCHY MULTIMILLET COOKIES: These healthy cookies are made up of Jowar, Ragi, Bajra, Almonds & Desi Khaand, hence relish these delightful Multimillet Cookies - a delectable blend of flavors and crunchy goodness."
+      }
+]
