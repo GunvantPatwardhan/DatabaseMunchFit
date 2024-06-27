@@ -1,172 +1,22 @@
 [
     {
-        "id": 101,
-        "name": "Roasted Millet Sticks",
-        "featured": false,
-        "price": [
-          50,
-          145,
-          255
-        ],
-        "category": [
-          "1x100g",
-          "3x100g",
-          "6x100g"
-        ],
-        "image": "https://munchfit.in/cdn/shop/files/STICKSPeriPeriMunchFitFinal-03_1100x.jpg?v=1689353919",
-        "description": "Flavour - Peri Peri. Experience the glow of PeriPeri chilly with tasty lemon flavor which is rich in vitamins and minerals. Ingredients: (Ragi, Jowar & Bajra - 41%), Corn Grits & Rice Grits (30%), Edible Vegetable Oil ( Palmolein Oil), Spices and Condiments -(12%) - ( Mixed Spices, Dehydrated Chilli Powder, Dehydrated Garlic Powder, Dehydrated Onion Powder, Black Pepper Powder, Sugar, Iodised Salt ), Oregano Acidity Regulator (Ins 330), Anti-caking Agent (Ins 170 (I)))."
+        "id": "dietpuffitema",
+        "name": "Simply Salted Puffs",
+        "company": "Diet Puff",
+        "price": 73,
+        "image": "https://www.pacdora.com/share?filter_url=pssveqkv78",
+        "description": "Introducing \"Salted Relish\" – a deliciously wholesome puffed mixed millet snack that brings together the goodness of nature in every bite. Made from a carefully curated blend of mixed millets including Kodo, Sorghum, Foxtail, Pearl, Ragi, Barnyard, and Little, Salted Relish offers a unique and flavorful snacking experience that's as nutritious as it is tasty.\n\nWhy Choose Salted Relish?\n\nHigh Fiber: Promotes healthy digestion and keeps you feeling full longer.\nRich in Proteins: Supports muscle growth and repair, perfect for an active lifestyle.\nLow Glycemic Index: Helps maintain stable blood sugar levels.\nGluten-Free: Suitable for those with gluten sensitivities or celiac disease.\nRich in Antioxidants: Protects your body from harmful free radicals.\nHigh in Iron: Boosts energy levels and supports healthy blood cells.\nCalcium-Rich: Essential for strong bones and teeth.\nRich in Magnesium: Supports numerous biochemical reactions in the body.\nAmino Acids: Building blocks of protein that are vital for overall health.\nB-Vitamins: Crucial for energy production and brain function.\nSalted Relish is the perfect snack for health-conscious individuals who don't want to compromise on flavor. Enjoy it on the go, at work, or as a quick bite between meals. Embrace the wholesome crunch of millets with Salted Relish and savor the natural taste of nutrition.",
+        "category": "Crunchy Millet Puffs",
+        "featured": true
       },
       {
-        "id": 102,
-        "name": "Roasted Millet Balls",
-        "featured": false,
-        "price": [
-          50,
-          145,
-          255
-        ],
-        "category": [
-          "1x100g",
-          "3x100g",
-          "6x100g"
-        ],
-        "image": "https://munchfit.in/cdn/shop/files/BALLSMunchFitFinal-03_1100x.jpg?v=1689350012",
-        "description": "Flavour - Magic Masala. It is the secret ingredient that makes your everyday snacks extraordinarily tasty. Ingredients: (Ragi, Jowar & Bajra - 41%), Corn Grits & Rice Grits (30%), Edible Vegetable Oil ( Palm Olein Oil), Spices and Condiments -(10%), (Ajwain Powder, Black Pepper, Black Salt, Fenugreek Powder, Chilli Powder, Coriander Powder, Dry Mango Powder, Ginger Powder, Black Pepper Powder, Cumin Powder, Turmeric Powder, Clove Powder, Cinnamon Powder, Sugar, Iodised Salt), Acidity Regulator (Ins 330), Anticaking Agent (Ins 170 (I)))."
-      },
-      {
-        "id": 103,
-        "name": "Roasted Millet Curls",
-        "featured": true,
-        "price": [
-          50,
-          145,
-          255
-        ],
-        "category": [
-          "1x100g",
-          "3x100g",
-          "6x100g"
-        ],
-        "image": "https://munchfit.in/cdn/shop/files/CurlsMunchFitFinal-03_1100x.jpg?v=1689396117",
-        "description": "Flavour - Lemon Chilly. A combination of sour and spicy flavors. Crunchy & tasty Curls are a perfect snack for your party evening. Ingredients: (Ragi, Jowar & Bajra - 41%), Corn Grits & Rice Grits (30%), Edible Vegetable Oil (Palmolein Oil) *spices and Condiments10% ( Red Chilli Powder, Coriander Powder, Turmeric Powder, Dehydrated Ginger Powder), Acidity Regulator (Ins 330), Natural Lemon Flavouring, Iodised Salt, Spice Extracts, Anti-caking Agent (Ins 170 (I)))."
-      },
-      {
-        "id": 104,
-        "name": "Roasted Millet Puffs",
-        "featured": false,
-        "price": [
-          50,
-          145,
-          255
-        ],
-        "category": [
-          "1x100g",
-          "3x100g",
-          "6x100g"
-        ],
-        "image": "https://munchfit.in/cdn/shop/files/PuffsMunchFitChilligarlicFinal-03_1100x.jpg?v=1689348032",
-        "description": "Flavour - Chili Garlic. When it comes to snacking nothing can beat the goodness of Garlic with a mid-hit of Chili. Ingredients: (Ragi, Jowar & Bajra - 41%), Corn Grits & Rice Grits (30%), Edible Vegetable Oil (Palm Olein Oil), Spices & Condiments (10%), (Tomato Powder, Coriander Powder, Red Chillies Powder, Dry Mango Powder, Iodised Salt, Dried Ginger Powder, Black Salt, Dehydrated Garlic Powder, Black Pepper Powder, Cloves Powder, Nutmeg Powder, Star Anise, Asafoetida, Sugar), Acidity Regulator (Ins 330), Anti-caking Agent (Ins 170 (I)))."
-      },
-      {
-        "id": 105,
-        "name": "Roasted Millet Rings",
-        "featured": false,
-        "price": [
-          50,
-          145,
-          255
-        ],
-        "category": [
-          "1x100g",
-          "3x100g",
-          "6x100g"
-        ],
-        "image": "https://munchfit.in/cdn/shop/files/RINGSMunchFitTangytomatoFinal-03_1100x.jpg?v=1689347563",
-        "description": "Flavour - Tangy Tomato. Tart sour cream taste and onion flavor are blended to create the perfect seasoning for Snacks. Ingredients: (Ragi, Jowar & Bajra - 41%), Corn Grits & Rice Grits (30%), Edible Vegetable Oil (Palm Olein Oil), Spices and Condiments - 10% (Black Pepper, Fenugreek Powder, Dehydrated Onion Powder, Vegetable Powder, Tomato Powder, Dehydrated Garlic Powder, Dehydrated Onion Powder, Chilli Powder, Cinnamon Powder, Iodised Salt, Sugar, Black Salt), Milk Solids, Acidity Regulator (Ins 330), Anticaking Agent (Ins 551, Ins 170 (I)))."
-      },
-      {
-        "id": 106,
-        "name": "Roasted Millet Waves",
-        "featured": true,
-        "price": [
-          50,
-          145,
-          255
-        ],
-        "category": [
-          "1x100g",
-          "3x100g",
-          "6x100g"
-        ],
-        "image": "https://munchfit.in/cdn/shop/files/WAVESMunchFitFinal-03_1100x.jpg?v=1689346580",
-        "description": "Flavour -Pani Puri. Perfect mix of cold, spicy, tart, sweet and crunchy. A taste that your mouth and mind instinctively know. Ingredients: (Ragi, Jowar & Bajra - 41%), Corn Grits & Rice Grits (30%), Edible Vegetable Oil ( Palm Olein Oil), Spices And Condiments (10%), (Black Salt, Dry Mango, Cumin Powder, Tamarind Powder, Citric Acid, Mint Leaves, Dried Ginger, Yellow Chillies, Black Pepper, Turmeric Powder, Cloves Powder, Asafoetida, Iodised Salt, Sugar), Acidity Regulator (Ins 330), Anticaking Agent (Ins 170 (I)))."
-      },
-      {
-        "id": 107,
-        "name": "Roasted Millet BBQ Sticks",
-        "featured": false,
-        "price": [
-          50,
-          145,
-          255
-        ],
-        "category": [
-          "1x100g",
-          "3x100g",
-          "6x100g"
-        ],
-        "image": "https://munchfit.in/cdn/shop/files/STICKSMunchFitBarbequeFinal-03_1100x.jpg?v=1689348687",
-        "description": "Flavour - Barbeque. A combined flavor of salty, sweet, tangy and spice. The crispy stick is perfectly delicious and gives happiness to every bite. Ingredients: (Ragi, Jowar & Bajra - 41%), Corn Grits & Rice Grits (30%), Edible Vegetable 0il (Palmolien Oil) *spices and Condiments 10% (Smoked Paprika, Dehydrated Onion Powder, Dehydrated Garlic Powder, Maltodextrin, Corn Starch, Iodised Salt, Sugar), Acidity Regulator (Ins 330), Anti-caking Agent (Ins 170 (I)))."
-      },
-      {
-        "id": 108,
-        "name": "Tahini Cookies",
-        "featured": false,
-        "price": [
-          150,
-          287,
-          560
-        ],
-        "category": [
-          "1x100g",
-          "2x100g",
-          "4x100g"
-        ],
-        "image": "https://munchfit.in/cdn/shop/files/WhatsAppImage2023-10-11at3.29.09PM_1_2019481c-5728-4ea2-a142-0e20dff09a9b_1100x.jpg?v=1697998340",
-        "description": "Munch Fit Jowar Sesame Oats Tahini Cookies | Healthy & Tasty Snack Item For Tea or Coffee | Rich in Protein & Fiber | Gluten Free | No Maida, No Added Sugar | Made with Desi Khaand. HEALTHY & CRUNCHY TAHNIN COOKIES: These healthy cookies are made up of Jowar, Sesame, Oats, Almonds, Peanuts & Desi Khaand, hence relish these delightful Tahini Cookies - a flavorsome and nutritious treat."
-      },
-      {
-        "id": 109,
-        "name": "Multimillet Cookies",
-        "featured": true,
-        "price": [
-          150,
-          287,
-          560
-        ],
-        "category": [
-          "1x100g",
-          "2x100g",
-          "4x100g"
-        ],
-        "image": "https://munchfit.in/cdn/shop/files/WhatsAppImage2023-10-05at2.06.00PM_1100x.jpg?v=1697997114",
-        "description": "Munch Fit Healthy, Tasty & Crunchy Multimillet Cookies | Jowar, Ragi & Bajra Cookies | 100% Natural & Healthy Cookies | Gluten Free | No Maida, No Added Sugar | Made with Desi Khaand. HEALTHY & CRUNCHY MULTIMILLET COOKIES: These healthy cookies are made up of Jowar, Ragi, Bajra, Almonds & Desi Khaand, hence relish these delightful Multimillet Cookies - a delectable blend of flavors and crunchy goodness."
-      },
-      {
-        "id": 110,
-        "name": "Choco-Chip Cookies",
-        "featured": false,
-        "price": [
-          150,
-          287,
-          560
-        ],
-        "category": [
-          "1x100g",
-          "2x100g",
-          "4x100g"
-        ],
-        "image": "https://munchfit.in/cdn/shop/files/ChocoChipscookies-06_1100x.jpg?v=1697996336",
-        "description": "Millet Choco Chip Cookies | Healthy, Tasty & Crunchy Jowar Choco Chip Cookies for Kids & Adults | Gluten Free, Protein Rich | No Maida, No Added Sugar | Made with Desi Khaand. HEALTHY & CRUNCHY MILLET CHOCO CHIP COOKIES: These healthy cookies are made up of Jowar, Dark Cocoa Powder, Chocolate Chips & Desi Khaand hence contains no added sugar, no aritificial flavours, colours or preservatives. A perfect healthy snack for adults & kids."
+        "id": "dietpuffitemb",
+        "name": "Black Pepper Puffs",
+        "company": "Diet Puff",
+        "price": 83,
+        "image": "https://www.pacdora.com/share?filter_url=psrnvj04jk",
+        "description": "Introducing \"Black Pepper\" – a flavorful and nutritious puffed mixed millet snack that combines the robust taste of black pepper with the wholesome goodness of millets. Made from a meticulously selected blend of mixed millets including Kodo, Sorghum, Foxtail, Pearl, Ragi, Barnyard, and Little, Black Pepper offers a unique snacking experience that's both delicious and healthy.\n\nWhy Choose Black Pepper?\n\n**Benefits of Millets:**\n\nHigh Fiber: Promotes healthy digestion and keeps you feeling full longer.\nRich in Proteins: Supports muscle growth and repair, perfect for an active lifestyle.\nLow Glycemic Index: Helps maintain stable blood sugar levels.\nGluten-Free: Suitable for those with gluten sensitivities or celiac disease.\nRich in Antioxidants: Protects your body from harmful free radicals.\nHigh in Iron: Boosts energy levels and supports healthy blood cells.\nCalcium-Rich: Essential for strong bones and teeth.\nRich in Magnesium: Supports numerous biochemical reactions in the body.\nAmino Acids: Building blocks of protein that are vital for overall health.\nB-Vitamins: Crucial for energy production and brain function.\n\n**Benefits of Black Pepper:**\n\nRich in Antioxidants: Helps protect your body against oxidative stress.\nAnti-Inflammatory Properties: Reduces inflammation and supports overall health.\nDigestive Health: Stimulates digestion and promotes gut health.\nWeight Loss: Enhances metabolism and aids in weight management.\nRespiratory Relief: Provides relief from respiratory disorders and coughs.\nAntibacterial Properties: Helps fight infections and boosts immunity.\nCognitive Function: Improves brain function and mental clarity.\nBlood Sugar Control: Helps regulate blood sugar levels.\nCancer-Preventive Properties: May help in preventing certain types of cancer.\nRich in Vitamins and Minerals: Provides essential nutrients for overall well-being.\n\nBlack Pepper is the ideal snack for those who crave a tasty and healthy treat. Perfect for on-the-go, at work, or as a quick and nutritious bite between meals. Enjoy the spicy kick of black pepper combined with the natural crunch of millets with Black Pepper and embrace the taste of wellness.",
+        "category": "Crunchy Millet Puffs",
+        "featured": true
       }
 ]

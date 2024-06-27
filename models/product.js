@@ -2,7 +2,7 @@ const mongoose = require("mongoose");
 
 const productSchema = new mongoose.Schema({
   id: {
-    type: Number,
+    type: String,
     required: [true, "Please input Product ID!"],
     unique: true,
   },
@@ -11,16 +11,15 @@ const productSchema = new mongoose.Schema({
     required: [true, "Please input Product Name!"],
     unique: true,
   },
-  featured: {
-    type: Boolean,
-  },
-  category: {
-    type: Array,
-    required: [true, "Please input Product Categories"],
+  company: {
+    type: String,
+    required: [true, "Please enter Company Name!"],
+    unique: false,
   },
   price: {
-    type: Array,
+    type: Number,
     required: [true, "Please input Product Price"],
+    unique: false,
   },
   image: {
     type: String,
@@ -29,6 +28,13 @@ const productSchema = new mongoose.Schema({
   description: {
     type: String,
     required: [true, "Please input Product Description!"],
+  },
+  category: {
+    type: String,
+    required: [true, "Please input Product Category"],
+  },
+  featured: {
+    type: Boolean,
   },
 });
 
