@@ -30,7 +30,7 @@ const getAllProducts = async (req, res) => {
         apiData = apiData.select(selectFix);
     }
 
-    const mahakal_main_line = await Product.find(queryObject).select("id name featured price category image description").sort("id");
+    const mahakal_main_line = await Product.find(queryObject).select("id name company price image description category featured").sort("id");
     res.status(200).json({mahakal_main_line, nHbits: mahakal_main_line.length});
 };
 
@@ -64,7 +64,7 @@ const getAllFeaturedProducts = async (req, res) => {
     }
 
 
-    const mahakal_featured_line = await FeaturedProducts.find(queryObject).select("id name featured price category image description").sort("id");
+    const mahakal_featured_line = await FeaturedProducts.find(queryObject).select("id name company price image description category featured").sort("id");
     res.status(200).json({mahakal_featured_line, nHbits: mahakal_featured_line.length});
 };
 
