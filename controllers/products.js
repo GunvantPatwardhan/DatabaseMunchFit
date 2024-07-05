@@ -8,6 +8,13 @@ const getAllProducts = async (req, res) => {
 
     if (id) {
         queryObject.id = id;
+    }
+    if (company) {
+        queryObject.company = company;
+    }
+
+    if (featured) {
+        queryObject.featured = featured;
     }   
     if (name) {
         queryObject.name = name;
